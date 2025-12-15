@@ -48,3 +48,12 @@
 - AssetRipper
 - AvatarLogger
 </details>
+
+# Loader
+Basiclly was made for old version of it that can be injected with no need of MelonLoader
+
+### Used library
+
+[SharpMonoInjector](https://github.com/warbler/SharpMonoInjector) - @warbler
+
+[KeyAuth-CSHARP-Example](https://github.com/KeyAuth/KeyAuth-CSHARP-Example) - @keyauth
