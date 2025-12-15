@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVRX", "CVRX\CVRX.csproj", "{6DD802C4-608E-436C-9BBF-F022A2C3C620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader", "Loader\Loader.csproj", "{7FCD21C7-D038-458A-A16F-71C51BD4F136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD802C4-608E-436C-9BBF-F022A2C3C620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD802C4-608E-436C-9BBF-F022A2C3C620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD802C4-608E-436C-9BBF-F022A2C3C620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD802C4-608E-436C-9BBF-F022A2C3C620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCD21C7-D038-458A-A16F-71C51BD4F136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCD21C7-D038-458A-A16F-71C51BD4F136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCD21C7-D038-458A-A16F-71C51BD4F136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCD21C7-D038-458A-A16F-71C51BD4F136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73ED1BBF-520C-4A11-897C-9EA1D8B7EAF0}
+	EndGlobalSection
+EndGlobal
